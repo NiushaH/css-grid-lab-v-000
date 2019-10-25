@@ -11,6 +11,7 @@ body {
   display: grid;
   grid-template: auto / 1fr 1fr 1fr 1fr;
   grid-gap: 5px, white;
+  grid-area: footer-start / 1 / footer-end / 4
 }
 
 .grid-item {
